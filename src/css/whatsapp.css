@@ -1,0 +1,12 @@
+/* Define styles for the WhatsApp floating icon */
+.whatsapp-container {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+  }
+  
+  .whatsapp-container img {
+    width: 60px; /* Adjust icon size as needed */
+    height: auto;
+  }
+  
