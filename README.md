@@ -51,6 +51,7 @@ Collaboration was initiated by inviting another student to work on the repositor
 - Collaborator created the "feature/add-about-page" branch and proposed changes.
 - Review was conducted on the pull request for "feature/add-about-page" branch.
 - Conflicts were resolved and merged into the main branch.
+- BorrowedOrange Contributed to the "feature/add-about-page" branch
 
 ## Bug Introduction and Rectification
 
@@ -69,4 +70,4 @@ This README file summarizes the actions taken during the lab exam, including rep
 
 ---
 
-Feel free to add further details, instructions, or any additional information relevant to your project.
+
